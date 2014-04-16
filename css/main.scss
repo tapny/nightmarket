@@ -211,6 +211,13 @@ header {
     margin-bottom:36px;
     overflow:hidden;
     li {
+      .logo {
+          display:inline-block;
+          .square { 
+              width:100px;
+              height:100px;
+          }
+      }
       .icon {
         display:inline-block;
         width:100px;

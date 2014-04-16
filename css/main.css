@@ -338,6 +338,11 @@ header {
       width: 24.999%;
       float: left;
       text-align: center; }
+      .information ul li .logo {
+        display: inline-block; }
+        .information ul li .logo .square {
+          width: 100px;
+          height: 100px; }
       .information ul li .icon {
         display: inline-block;
         width: 100px;
