@@ -232,7 +232,7 @@ header {
         background-position-y:-100px;
       }
       display:block;
-      width:24.999%;
+      width:19.999%;
       float:left;
       text-align:center;
       @media screen and (max-width: $break-small) {
@@ -320,7 +320,7 @@ header {
   }
 }
 
-.eventbrite {
+.eventbrite,.thanks {
   h3 {
     font-size:28px;
     font-weight:300;

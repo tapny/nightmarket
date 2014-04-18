@@ -335,7 +335,7 @@ header {
     overflow: hidden; }
     .information ul li {
       display: block;
-      width: 24.999%;
+      width: 19.999%;
       float: left;
       text-align: center; }
       .information ul li .logo {
@@ -424,9 +424,9 @@ header {
         .more ul li {
           width: 100%; } }
 
-.eventbrite {
+.eventbrite, .thanks {
   padding: 48px; }
-  .eventbrite h3 {
+  .eventbrite h3, .thanks h3 {
     font-size: 28px;
     font-weight: 300;
     margin-bottom: 48px;
