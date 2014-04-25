@@ -343,6 +343,8 @@ header {
         .information ul li .logo .square {
           width: 100px;
           height: 100px; }
+        .information ul li .logo a {
+          font: bold; }
       .information ul li .icon {
         display: inline-block;
         width: 100px;
@@ -449,6 +451,9 @@ header {
 
 .right {
   float: right; }
+
+.red {
+  color: red; }
 
 .social {
   padding-top: 48px;
